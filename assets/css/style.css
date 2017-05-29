@@ -1,0 +1,50 @@
+html {
+
+}
+
+body {
+	background: url(marvel-heroes.jpg) center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#title {
+	text-align: center;
+	font-style: bold;
+	font-family: sans-serif;
+	color: lime;
+	background-color: yellow;
+	width: 35%;
+	margin: auto;
+
+}
+
+#timer {
+	text-align: center;
+	color: yellow;
+}
+
+#submit {
+	position: fixed;
+	left: 80%;
+	top: 80%;
+}
+
+#score {
+	text-align: center;
+	color: yellow;
+}
+
+#questions {
+	text-align: center;
+	background-color: white;
+	width: 30%;
+	margin: auto;
+}
+
+#rightwrong {
+	text-align: center;
+	color: yellow;
+}
